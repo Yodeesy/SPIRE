@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+ogb==1.3.6
+POT
+torch-geometric==2.6.1

@@ -1,0 +1,31 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Python & PyTorch Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+
+# Logs & Output Data
+logs/
+umap_data/
+checkpoints/
+runs/
+*.log
+
+# Environment & Build
+.env
+venv/
+env/
+dist/
+build/
+*.egg-info/
