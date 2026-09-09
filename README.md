@@ -1,5 +1,6 @@
 # Structural Entropy-Driven Graph Diffusion Generation for One-Shot Federated Graph Learning
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.06499-b31b1b.svg)](https://arxiv.org/abs/2609.06499)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -102,4 +103,18 @@ Plaintext
     ├── training_utils.py    # Training helper functions
     ├── set_seed.py          # Reproducibility seed setting
     └── logger.py            # Logger utilities
+```
+
+## Citation
+If you find this work or code useful in your research, please consider citing:
+```text
+@misc{zheng2026structuralentropydrivengraphdiffusion,
+      title={Structural Entropy-Driven Graph Diffusion Generation for One-Shot Federated Graph Learning}, 
+      author={Shutong Zheng and Lele Fu and Sheng Huang and Wei Yang Bryan Lim and Chuan Chen},
+      year={2026},
+      eprint={2609.06499},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.06499}, 
+}
 ```
